@@ -41,7 +41,7 @@ namespace ExcelDecoder
 
             // Alteramos a propriedade das caixas de texto para apenas leitura
             
-            textBox1.IsReadOnly = true;
+            textBox.IsReadOnly = true;
         }
 
         

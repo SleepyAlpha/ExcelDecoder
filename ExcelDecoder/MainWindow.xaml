@@ -13,8 +13,7 @@
         </Grid.ColumnDefinitions>
         <Button x:Name="button" Content="Abrir Ficheiro" HorizontalAlignment="Left" Margin="17.811,376,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" Grid.Column="1"/>
         <Button x:Name="button1" Content="Descodificar" HorizontalAlignment="Left" Margin="597.811,376,0,0" VerticalAlignment="Top" Width="75" Click="Button1_Click" Grid.Column="1"/>
-        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="202" Margin="24,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="744" TextChanged="TextBox_TextChanged" Grid.ColumnSpan="2"/>
-        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="85" Margin="24,269,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="744" TextChanged="TextBox1_TextChanged" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="319" Margin="25,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="744" TextChanged="TextBox_TextChanged" Grid.ColumnSpan="2"/>
 
     </Grid>
 </Window>
